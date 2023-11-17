@@ -60,8 +60,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![image-1](https://github.com/knight7080/simplewebserver/assets/88542035/d98f5702-f7bf-4f4c-b530-3af447cdacba)
+![image-2](https://github.com/knight7080/simplewebserver/assets/88542035/770451f9-ca8b-45f3-b738-8dbb9319c160)
+
 
 
 ## RESULT:
